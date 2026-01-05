@@ -86,11 +86,20 @@ numpy
 scikit-learn
 
 
-Python Dependencies
+Python Dependencies:
+
 opencv 
-mediapipe 
-numpy 
+
+mediapipe
+
+numpy
+
 scikit-learn
+
+Dependency Installation:
+
+pip install opencv-python mediapipe numpy scikit-learn
+
 
 
 
