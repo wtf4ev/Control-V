@@ -47,6 +47,8 @@ Scikit-learn (classification logic)
 
 
 Project Architecture (LEGO-style Modular Design)
+
+```text
 proj/hackathon fr/
 │
 ├── src/
@@ -64,6 +66,8 @@ proj/hackathon fr/
 ├── vite.config.ts
 ├── tsconfig.json
 └── package.json
+```
+
 
 
 
