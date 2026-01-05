@@ -95,12 +95,17 @@ scikit-learn
 
 
 Localhost Deployment
+
 1.Clone / Open Project Directory Using :
+
 cd "proj/hackathon fr"
+
 2.Install Frontend Dependencies using:
 npm install
+
 3.Start Frontend Development Server using:
 npm run dev
+
 4.Open this URL in your browser.
 Local: http://localhost:8080/
 
