@@ -148,6 +148,10 @@ Localhost Deployment Demo link:
 
 https://drive.google.com/file/d/1zvWntXtPRXsDMZQ7IWxmYurh1La6szxy/view?usp=sharing
 
+Screenshot of Alert message to emergency contact:
+
+https://drive.google.com/file/d/1kM1yfXIQRnmBcjJ9UOil9eyz1JNXQMuA/view?usp=drivesdk
+
 
 
 
