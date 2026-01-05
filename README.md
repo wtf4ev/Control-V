@@ -3,7 +3,7 @@ SeizureGuard
 A real-time pose-based seizure detection web application built using computer vision, machine learning, and modern web technologies.
 The system analyzes human body movements from video streams to identify abnormal motion patterns associated with seizures.
 
-This project was developed as part of a hackathon / academic AI project with a focus on future applications of AI in healthcare monitoring.
+This project was developed as part of a hackathon with a focus on future applications of AI in healthcare monitoring.
 
 Features
 
@@ -84,3 +84,25 @@ mediapipe
 numpy
 
 scikit-learn
+
+
+Python Dependencies
+opencv 
+mediapipe 
+numpy 
+scikit-learn
+
+
+
+Localhost Deployment
+1.Clone / Open Project Directory Using :
+cd "proj/hackathon fr"
+2.Install Frontend Dependencies using:
+npm install
+3.Start Frontend Development Server using:
+npm run dev
+4.Open this URL in your browser.
+Local: http://localhost:8080/
+
+
+
