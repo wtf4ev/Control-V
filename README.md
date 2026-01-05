@@ -1,1 +1,1 @@
-# Control-V
+SeizureGuard is an AI-powered safety application designed to monitor individuals at risk of seizures. Using Latency-Critical Edge Computing, the system analyzes body movements locally to detect Tonic-Clonic seizure patterns and trigger immediate emergency alerts via WhatsApp.
