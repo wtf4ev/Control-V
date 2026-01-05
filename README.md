@@ -46,6 +46,28 @@ NumPy
 Scikit-learn (classification logic)
 
 
+Project Architecture (LEGO-style Modular Design)
+proj/hackathon fr/
+│
+├── src/
+│   ├── pages/              # Application pages
+│   │   ├── Index.tsx       # Main UI
+│   │   └── NotFound.tsx
+│   │
+│   ├── components/         # Reusable UI components
+│   ├── hooks/              # Custom React hooks
+│   ├── lib/                # Utility functions
+│   ├── index.css           # Global styles
+│   └── main.tsx            # App entry point
+│
+├── tailwind.config.ts
+├── vite.config.ts
+├── tsconfig.json
+└── package.json
+
+
+
+
  How the Detection Works (High Level)
 
 1.Video Input
@@ -117,6 +139,11 @@ npm run dev
 
 4.Open this URL in your browser.
 Local: http://localhost:8080/
+
+Localhost Deployment Demo link:
+
+
+
 
 
 
